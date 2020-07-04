@@ -1,0 +1,10 @@
+.botaochange
+{
+	padding: 10px; 
+}
+.botaochange:hover
+{
+	color: red;
+	background-color: blue;
+            
+}
